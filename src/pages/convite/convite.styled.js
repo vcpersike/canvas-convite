@@ -100,7 +100,7 @@ export const Presentes = styled.div`
   margin-bottom: 2rem;
   h2 {
     font-weight: bold;
-    color: gold;
+    color: orange;
   }
   p {
     font-size: large;
@@ -112,6 +112,6 @@ export const Presentes = styled.div`
     padding-right: 0.2rem;
     font-size: larger;
     font-weight: bold;
-    color: gold;
+    color: orange;
   }
 `;

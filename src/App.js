@@ -6,7 +6,7 @@ function App() {
   return (
     <AppContainer >
         <Convite/>
-        <Canvas/>
+        {/* <Canvas/> */}
     </AppContainer>
   );
 }
