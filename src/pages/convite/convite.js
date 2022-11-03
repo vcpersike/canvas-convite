@@ -40,10 +40,10 @@ function Convite() {
             não estava nos planos, mas que fazia todo sentido acontecer nesta
             irmandade, nesta casa e na doutrina do Santo Daime. E aqui estamos,
             reafirmando nosso amor no plano terrestre e sobretudo no plano
-            Astral. 
+            Astral.
           </p>
           <span>
-            Nossa celebração será dividida em dois momentos. Em São Paulo
+            Nossa celebração será dividida em dois momentos no dia 13/11/2022. Em São Paulo
             faremos a cerimônia e a confraternização, apenas um almoço. Quem
             desejar consagrar a medicina do Santo Daime deverá se dirigir para a
             igreja em Atibaia. Pedimos confirmação e contribuição de R$50,00
@@ -53,7 +53,7 @@ function Convite() {
       </div>
       <Enderenco>
         <p>
-          Endereço da cerimônia 
+          Endereço da cerimônia
           <span>
              Av. Água Fria, 1608 - Jardim Franca, São Paulo - SP, 02332-001
           </span>
