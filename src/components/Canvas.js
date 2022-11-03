@@ -9,7 +9,6 @@ const Canvas = props => {
     const pointA = new Point(40, 40, 10);
     const pointB = new Point(68, 60, 0.6);
 
-
     ctx.beginPath();
     ctx.arc(pointA.x, pointA.y, pointA.radius, 0, 2*Math.PI);
     ctx.fill();
