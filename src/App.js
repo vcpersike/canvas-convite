@@ -1,13 +1,11 @@
-import Canvas from "./components/Canvas";
-import Convite from "./pages/convite/convite";
-import { AppContainer } from "./theme/app.styled";
+import { BrowserRouter as Router } from "react-router-dom";
+import Routes from './routes'
 
 function App() {
   return (
-    <AppContainer >
-        <Convite/>
-        {/* <Canvas/> */}
-    </AppContainer>
+    <Router>
+      <Routes />
+    </Router>
   );
 }
 
