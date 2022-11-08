@@ -3,32 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import GlobalStyle from "./theme/global.styled";
 import reportWebVitals from "./reportWebVitals";
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from "react-router-dom";
-import Consagracao from "./pages/convite/consagracao";
-import Presente from "./pages/convite/presentes";
-import Recepcao from "./pages/convite/recepcao";
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <App />,
-  },
-  {
-    path: "/consagracao",
-    element: <Consagracao />,
-  },
-  {
-    path: "/presente",
-    element: <Presente />,
-  },
-  {
-    path: "/recepcao",
-    element: <Recepcao />,
-  },
-]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
